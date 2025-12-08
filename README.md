@@ -1,3 +1,4 @@
+<div style="background-color:white;">
 <h1 align="center">Hi 👋, I'm SIVADHARSHINI</h1>
 <h3 align="center">Full-stack developer & AI/ML student passionate about building clean UIs, scalable backends, and exploring new technologies. Actively working on modern web projects, ML-driven applications, and continuous skill expansion. Always learning, experimenting, and shipping.</h3>
 
@@ -31,3 +32,4 @@
   </div>
 </p>
 
+</div>
