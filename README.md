@@ -19,7 +19,7 @@
 <p align="left">
   <div>
     <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" width="40" weight="40"/> 
-    <vr />
+    <div></div>
     <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=111111" alt="express" width="40" height="40"/> <vr />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <vr />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><vr />
