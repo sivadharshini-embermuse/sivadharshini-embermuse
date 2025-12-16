@@ -19,7 +19,7 @@
    
 <h3>FRONTEND:</h3>
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="42" height="42"/>
     <img width="40" alt="CSS" height="40" alt="image" src="https://github.com/user-attachments/assets/c8684299-b400-49f1-9386-cecf9658209c" />
     <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" width="40" weight="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
