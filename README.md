@@ -40,6 +40,7 @@ clean UI/UX, scalable backends, and AI-powered solutions.
 <p align="left">
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"
   alt="VS Code" width="45" height="45"/>
+  <img src="https://cdn.corenexis.com/files/c/9563627720.jpg" alt="Antigravity" width="45" height="45" />
 </p>
 
 ---
