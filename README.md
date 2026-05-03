@@ -19,7 +19,7 @@ clean UI/UX, scalable backends, and AI-powered solutions.
 
 ---
 
-<h3 align="left">🌐 Connect With Me</h3>
+<h3 align="center">🌐 Connect With Me</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sivadharshini-jayachandran/" target="_blank">
