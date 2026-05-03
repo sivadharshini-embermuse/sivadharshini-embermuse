@@ -8,7 +8,7 @@
 - 📧 How to reach me **sivadharshini266@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div style="display:flex; gap:10px;">
+<div style="display:flex; gap:10px;" align="left">
 <p align="left">
 <a href="https://www.linkedin.com/in/sivadharshini-jayachandran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sivadharshini-jayachandran" height="30" width="40" /></a>
    
@@ -17,11 +17,11 @@
 </div>
 
 <P>TOOLS:</P>
-<div style="display:flex; gap:10px;">
+<div style="display:flex; gap:10px;" align="left">
    <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VScode" width="40" height="40" />
 </div>
 <h3>FRONTEND:</h3>
-<div style="display:flex; gap:10px;">
+<div style="display:flex; gap:10px;" align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
     <img width="35" alt="CSS" height="35" src="https://github.com/user-attachments/assets/c8684299-b400-49f1-9386-cecf9658209c" />
     <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" width="40" weight="40"/> 
@@ -30,7 +30,7 @@
 </div>
 
 <h3>BACKEND:</h3>
-<div style="display:flex; gap:10px;">
+<div style="display:flex; gap:10px;" align="left">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
    <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" alt="express" width="40" height="40" />
