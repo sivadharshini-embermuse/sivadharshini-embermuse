@@ -77,7 +77,7 @@ automation systems, and scalable digital experiences.
 <h3>Tools</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,antigravity" />
 </p>
 
 <hr>
