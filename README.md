@@ -80,39 +80,7 @@ automation systems, and scalable digital experiences.
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" />
 </p>
 
-<hr>
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sivadharshini-emnermuse&show_icons=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivadharshini-enbermuse&layout=compact" />
-
-</div>
-
-<hr>
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sivadharshini-embermuse" />
-
-</div>
-
-<hr>
-
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sivadharshini-embermuse&row=1&column=6" />
-
-</div>
-
-<hr>
 
 <div align="center">
 
