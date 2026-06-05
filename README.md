@@ -65,7 +65,7 @@ automation systems, and scalable digital experiences.
 <h3>Backend</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,expressjs,authentication" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,expressjs" />
 </p>
 
 <h3>Database & Cloud</h3>
