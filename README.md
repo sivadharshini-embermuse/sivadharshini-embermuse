@@ -81,10 +81,6 @@ automation systems, and scalable digital experiences.
 </p>
 
 
-
-<div align="center">
-
-<h3>💡 Learning Today. Building Tomorrow.</h3>
-
-</div>
-
+<h3 align="center">
+🚀 Building the Future with Code and AI.
+</h3>
