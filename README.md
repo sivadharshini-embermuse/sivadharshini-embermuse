@@ -13,10 +13,6 @@ automation systems, and scalable digital experiences.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+ML+Student;Building+AI-Powered+Solutions;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sivadharshini-embermuse&label=Profile+Views&style=for-the-badge" />
-
 </div>
 
 <hr>
@@ -72,10 +68,10 @@ automation systems, and scalable digital experiences.
 <img src="https://skillicons.dev/icons?i=python,nodejs" />
 </p>
 
-<h3>Database</h3>
+<h3>Database & Cloud</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,superbase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase" />
 </p>
 
 <h3>Tools</h3>
