@@ -13,9 +13,7 @@ automation systems, and scalable digital experiences.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+ML+Student;Building+AI-Powered+Solutions;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge" />
+<br>
 
 </div>
 
