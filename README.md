@@ -86,9 +86,9 @@ automation systems, and scalable digital experiences.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sivadharshini26&show_icons=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sivadharshini-emnermuse&show_icons=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivadharshini26&layout=compact" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivadharshini-enbermuse&layout=compact" />
 
 </div>
 
@@ -98,7 +98,7 @@ automation systems, and scalable digital experiences.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sivadharshini26" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sivadharshini-embermuse" />
 
 </div>
 
@@ -108,7 +108,7 @@ automation systems, and scalable digital experiences.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sivadharshini26&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sivadharshini-embermuse&row=1&column=6" />
 
 </div>
 
